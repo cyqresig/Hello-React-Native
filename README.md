@@ -1,0 +1,5 @@
+# Hello-React-Native
+基于react-native对市面上常用的功能需求进行了整理和封装
+在可以满足条件的情况下，尽可能使用相同的api来实现ios与android相同或类似的功能效果
+在无法满足条件的情况下，使用不同的api来实现ios与android相同或类似的功能效果
+在Learn once, write anywhere的基础上，设法使尽可能多的部分write once
